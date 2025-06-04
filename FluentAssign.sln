@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParksComputing.FluentAssign", "ParksComputing.FluentAssign\ParksComputing.FluentAssign.csproj", "{266990F6-B561-4AF5-A55F-BD589240B442}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266990F6-B561-4AF5-A55F-BD589240B442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266990F6-B561-4AF5-A55F-BD589240B442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266990F6-B561-4AF5-A55F-BD589240B442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266990F6-B561-4AF5-A55F-BD589240B442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79AAACF0-DCD7-4DE8-B7A2-572B4D1D4481}
+	EndGlobalSection
+EndGlobal
